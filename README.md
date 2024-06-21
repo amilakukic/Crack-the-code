@@ -8,7 +8,7 @@ YouTube link: https://www.youtube.com/watch?v=sXS1RVXs-Po&t=20s&ab_channel=Ugrad
 
 - [Sara Kardaš](https://github.com/skardas1)
 
-- [Amila Kukić](https://github.com/akukic)
+- [Amila Kukić](https://github.com/amilakukic)
 
 ## Authors
 
