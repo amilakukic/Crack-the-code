@@ -10,7 +10,6 @@ YouTube link: https://www.youtube.com/watch?v=sXS1RVXs-Po&t=20s&ab_channel=Ugrad
 
 - [Amila Kukić](https://github.com/amilakukic)
 
-## Authors
 
 © 2023 Sara Kardaš & Amila Kukić
 
