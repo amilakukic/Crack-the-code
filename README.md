@@ -6,9 +6,9 @@ YouTube link: https://www.youtube.com/watch?v=sXS1RVXs-Po&t=20s&ab_channel=Ugrad
 
 ## Team members:
 
--[Sara Kardaš](https://github.com/skardas1)
+- [Sara Kardaš](https://github.com/skardas1)
 
--[Amila Kukić](https://github.com/akukic)
+- [Amila Kukić](https://github.com/akukic)
 
 ## Authors
 
