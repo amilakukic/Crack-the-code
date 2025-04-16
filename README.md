@@ -12,7 +12,7 @@ YouTube link: https://www.youtube.com/watch?v=sXS1RVXs-Po&t=20s&ab_channel=Ugrad
 
 ##
 
-© 2023 Sara Kardaš & Amila Kukić
+© 2024 Sara Kardaš & Amila Kukić
 
 Faculty of Electrical Engineering
 
